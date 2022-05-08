@@ -1,2 +1,3 @@
 # yiyuanmanagesOS
-first edit
+edit this files
+add a new function()!
